@@ -1,0 +1,131 @@
+#praz {
+    margin: 0;
+    margin-top: 5px;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;  
+    color: #e2a3d9;
+}
+.form {
+
+    width: 620px;
+    height: 1000px;
+    border-radius: 10px;
+    border: 5px solid rgb(255, 96, 162);
+    margin: 55px auto 0;
+    margin-bottom: 70px;
+}
+
+.form h3 {
+    display: block;
+    margin: 0;
+    font-style: normal;
+    font-weight: 600;
+    width: 260px;
+    border-bottom: 4px solid rgb(255, 96, 162);
+    font-size: 28px;
+    text-align: center;
+    margin: 40px auto 60px;
+}
+.ypr {
+    margin-left: 100px;
+}
+
+.ypr select,
+.ypr input {
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    border: 5px solid rgb(255, 96, 162);
+    margin-top: 50px;
+    font-size: 22px;
+    padding-left: 50px;
+}
+
+.ypr input {
+    width: 345px;
+    height: 40px;
+
+}
+.line {
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background: rgb(255, 96, 162);
+    margin: 50px auto 0;
+
+}
+
+.line a {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+    padding-top: 13px;
+    text-decoration: none;
+}
+.main {
+    width: 1180px;
+    margin: 0 auto;
+}
+.bl {
+    margin-left: 150px;
+}
+
+h1 {
+    margin-left: 100px;
+    color: rgb(170, 161, 161);
+}
+h2 {
+    margin: 0;
+    margin-top: 30px;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center; 
+}
+h3 {
+    width: 100%;
+height: 50px;
+background-color: #f3d2d8;;
+    margin: 0;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center; 
+}
+footer {
+    width: 100%;
+    background-color: #fdeafa;
+    height: 327px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer h4 {
+    color: black;
+}
+
+footer section {
+    display: flex;
+}
+
+
+
+footer ul {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer li {
+
+    color: #19191a;
+    list-style-type: none;
+    display: block;
+    border: 500;
+}
+
